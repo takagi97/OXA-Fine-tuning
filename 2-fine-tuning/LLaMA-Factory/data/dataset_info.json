@@ -1,111 +1,111 @@
 {
   "AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_gauss_mean3.0_std0.25_len.25w.1query10response.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_gauss_mean3.0_std0.25_len.25w.1query10response.alpaca.json"
+    "file_name": "/path/to/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_gauss_mean3.0_std0.25_len.25w.1query10response.alpaca.json"
   },
   "light-r1-stage2-3k.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/Light-R1/light-r1-stage2-3k.alpaca.json"
+    "file_name": "/path/to/Light-R1/light-r1-stage2-3k.alpaca.json"
   },
   "AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_Qwen2.5-Math-1.5B.minlen10000_lowppl_50000.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_Qwen2.5-Math-1.5B.minlen10000_lowppl_50000.alpaca.json"
+    "file_name": "/path/to/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_Qwen2.5-Math-1.5B.minlen10000_lowppl_50000.alpaca.json"
   },
   "AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_qwen3_1.7b_ppl_list.lowest_50000.1query1response.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_qwen3_1.7b_ppl_list.lowest_50000.1query1response.alpaca.json"
+    "file_name": "/path/to/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_qwen3_1.7b_ppl_list.lowest_50000.1query1response.alpaca.json"
   },
   "AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_qwen3_1.7b_ppl_list.sample_gauss_mean2.5_std0.25_len.5w.1query1response.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_qwen3_1.7b_ppl_list.sample_gauss_mean2.5_std0.25_len.5w.1query1response.alpaca.json"
+    "file_name": "/path/to/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_qwen3_1.7b_ppl_list.sample_gauss_mean2.5_std0.25_len.5w.1query1response.alpaca.json"
   },
   "AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_llama3.2_3b_ppl_list.lowest_50000.1query1response.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_llama3.2_3b_ppl_list.lowest_50000.1query1response.alpaca.json"
+    "file_name": "/path/to/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_llama3.2_3b_ppl_list.lowest_50000.1query1response.alpaca.json"
   },
   "AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_gauss_mean3.0_std0.25_len.15w.1query10response.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_gauss_mean3.0_std0.25_len.15w.1query10response.alpaca.json"
+    "file_name": "/path/to/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_gauss_mean3.0_std0.25_len.15w.1query10response.alpaca.json"
   },
   "AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_llama3.2_3b_ppl_list.sample_gauss_mean3.0_std0.25_len.5w.1query1response.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_llama3.2_3b_ppl_list.sample_gauss_mean3.0_std0.25_len.5w.1query1response.alpaca.json"
+    "file_name": "/path/to/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_llama3.2_3b_ppl_list.sample_gauss_mean3.0_std0.25_len.5w.1query1response.alpaca.json"
   },
   "merged_7b_ce5w_LEN_ul5w_rm_len25k_1query1response.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/merged_7b_ce5w_LEN_ul5w_rm_len25k_1query1response.alpaca.json"
+    "file_name": "/path/to/AceReason/merged_7b_ce5w_LEN_ul5w_rm_len25k_1query1response.alpaca.json"
   },
   "merged_1.5b_ce5w_LEN_ul5w_rm_len25k_1query1response.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/merged_1.5b_ce5w_LEN_ul5w_rm_len25k_1query1response.alpaca.json"
+    "file_name": "/path/to/AceReason/merged_1.5b_ce5w_LEN_ul5w_rm_len25k_1query1response.alpaca.json"
   },
   "AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_gauss_mean3.0_std0.25_len.5w.1query1response.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_gauss_mean3.0_std0.25_len.5w.1query1response.alpaca.json"
+    "file_name": "/path/to/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_gauss_mean3.0_std0.25_len.5w.1query1response.alpaca.json"
   },
   "AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.lowest_50000.1query1response.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.lowest_50000.1query1response.alpaca.json"
+    "file_name": "/path/to/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.lowest_50000.1query1response.alpaca.json"
   },
   "merged_1.5b_ppl2.0-2.5_len.alpaca.all_type0": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/merged_1.5b_ppl2.0-2.5_len.alpaca.all_type0.json"
+    "file_name": "/path/to/AceReason/merged_1.5b_ppl2.0-2.5_len.alpaca.all_type0.json"
   },
   "AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_Qwen2.5-Math-1.5B.sample_gauss_mean2.5_std0.25_len.5w.1query1response.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_Qwen2.5-Math-1.5B.sample_gauss_mean2.5_std0.25_len.5w.1query1response.alpaca.json"
+    "file_name": "/path/to/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_Qwen2.5-Math-1.5B.sample_gauss_mean2.5_std0.25_len.5w.1query1response.alpaca.json"
   },
   "AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_Qwen2.5-Math-1.5B.sample_gauss_mean2.5_std0.5_len.5w.1query1response.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_Qwen2.5-Math-1.5B.sample_gauss_mean2.5_std0.5_len.5w.1query1response.alpaca.json"
+    "file_name": "/path/to/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_Qwen2.5-Math-1.5B.sample_gauss_mean2.5_std0.5_len.5w.1query1response.alpaca.json"
   },
   "AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_Qwen2.5-Math-1.5B.sample_gauss_mean2.5_std0.1_len.5w.1query1response.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_Qwen2.5-Math-1.5B.sample_gauss_mean2.5_std0.1_len.5w.1query1response.alpaca.json"
+    "file_name": "/path/to/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_Qwen2.5-Math-1.5B.sample_gauss_mean2.5_std0.1_len.5w.1query1response.alpaca.json"
   },
   "AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_like_high_0.005_len.orig.5w.1query1response.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_like_high_0.005_len.orig.5w.1query1response.alpaca.json"
+    "file_name": "/path/to/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_like_high_0.005_len.orig.5w.1query1response.alpaca.json"
   },
   "AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_like_high_0.005.orig.5w.1query1response.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_like_high_0.005.orig.5w.1query1response.alpaca.json"
+    "file_name": "/path/to/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_like_high_0.005.orig.5w.1query1response.alpaca.json"
   },
   "AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_like_high.2.5.5w.1query10response.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_like_high.2.5.5w.1query10response.alpaca.json"
+    "file_name": "/path/to/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_like_high.2.5.5w.1query10response.alpaca.json"
   },
   "AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_like_high.2.8.5w.1query10response.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_like_high.2.8.5w.1query10response.alpaca.json"
+    "file_name": "/path/to/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_like_high.2.8.5w.1query10response.alpaca.json"
   },
   "AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_like_high.3.0.5w.1query10response.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_like_high.3.0.5w.1query10response.alpaca.json"
+    "file_name": "/path/to/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_like_high.3.0.5w.1query10response.alpaca.json"
   },
   "AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_like_high.orig.5w.1query1response.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_like_high.orig.5w.1query1response.alpaca.json"
+    "file_name": "/path/to/AceReason/AceReason-1.1-Math.uuid.gt.verify.true.shuf.DeepSeek-R1_Response_Qwen2.5-Math-7B_ppl_list.sample_like_high.orig.5w.1query1response.alpaca.json"
   },
   "merged_1.5b_ppl2.5_3.0_len.alpaca.all_type0": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/merged_1.5b_ppl2.5_3.0_len.alpaca.all_type0.json"
+    "file_name": "/path/to/AceReason/merged_1.5b_ppl2.5_3.0_len.alpaca.all_type0.json"
   },
   "merged_1.5b_ppl2.5_3.5_len.alpaca.all_type0": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/merged_1.5b_ppl2.5_3.5_len.alpaca.all_type0.json"
+    "file_name": "/path/to/AceReason/merged_1.5b_ppl2.5_3.5_len.alpaca.all_type0.json"
   },
   "merged_1.5b_ppl3.0_4.0.alpaca.all_type0": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/merged_1.5b_ppl3.0_4.0.alpaca.all_type0.json"
+    "file_name": "/path/to/AceReason/merged_1.5b_ppl3.0_4.0.alpaca.all_type0.json"
   },
   "merged_1.5b_low_50000.alpaca.all_type0": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/merged_1.5b_low_50000.alpaca.all_type0.json"
+    "file_name": "/path/to/AceReason/merged_1.5b_low_50000.alpaca.all_type0.json"
   },
   "merged_1.5b_ppl2.0_3.0.alpaca.all_type0": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/merged_1.5b_ppl2.0_3.0.alpaca.all_type0.json"
+    "file_name": "/path/to/AceReason/merged_1.5b_ppl2.0_3.0.alpaca.all_type0.json"
   },
   "merged_ce_highest_5w_ul17w_1query1response.add_think.v2.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/merged_ce_highest_5w_ul17w_1query1response.add_think.v2.alpaca.json"
+    "file_name": "/path/to/AceReason/merged_ce_highest_5w_ul17w_1query1response.add_think.v2.alpaca.json"
   },
   "AceReason-1.1-Math.uuid.single.ppl.gt.verified.highest_50000.suffix.alpaca.all_type0": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/AceReason-1.1-Math.uuid.single.ppl.gt.verified.highest_50000.suffix.alpaca.all_type0.json"
+    "file_name": "/path/to/AceReason/AceReason-1.1-Math.uuid.single.ppl.gt.verified.highest_50000.suffix.alpaca.all_type0.json"
   },
   "AceReason-1.1-Math.uuid.single.ppl.gt.verified.lowest_50000.suffix.alpaca.all_type0": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/AceReason-1.1-Math.uuid.single.ppl.gt.verified.lowest_50000.suffix.alpaca.all_type0.json"
+    "file_name": "/path/to/AceReason/AceReason-1.1-Math.uuid.single.ppl.gt.verified.lowest_50000.suffix.alpaca.all_type0.json"
   },
   "AceReason-1.1-Math.uuid.single.ppl.gt.verified.sampled_50000.suffix.alpaca.all_type0": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/AceReason-1.1-Math.uuid.single.ppl.gt.verified.sampled_50000.suffix.alpaca.all_type0.json"
+    "file_name": "/path/to/AceReason/AceReason-1.1-Math.uuid.single.ppl.gt.verified.sampled_50000.suffix.alpaca.all_type0.json"
   },
   "myy-test": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/myy-test.json"
+    "file_name": "/path/to/AceReason/myy-test.json"
   },
   "merged_ppl2.5_3.5.alpaca.all_type0": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/merged_ppl2.5_3.5.alpaca.all_type0.json"
+    "file_name": "/path/to/AceReason/merged_ppl2.5_3.5.alpaca.all_type0.json"
   },
   "merged_ppl2.5_5_ppl0_1.8.alpaca.sample20w": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/merged_ppl2.5_5_ppl0_1.8.alpaca.sample20w.json"
+    "file_name": "/path/to/AceReason/merged_ppl2.5_5_ppl0_1.8.alpaca.sample20w.json"
   },
   "merged_ce10w_ul17w_1query1response.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/merged_ce10w_ul17w_1query1response.alpaca.json"
+    "file_name": "/path/to/AceReason/merged_ce10w_ul17w_1query1response.alpaca.json"
   },
   "merged_ce10w_ul20w_1query1response.add_think.v2.alpaca": {
-    "file_name": "/mnt/geminiszgmcephfs/geminicephfs/pr-others-prctrans/jerrymu/SFT_for_RL/data/AceReason/merged_ce10w_ul20w_1query1response.add_think.v2.alpaca.json"
+    "file_name": "/path/to/AceReason/merged_ce10w_ul20w_1query1response.add_think.v2.alpaca.json"
   },
   "identity": {
     "file_name": "identity.json"
