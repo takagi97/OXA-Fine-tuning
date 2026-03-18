@@ -1,0 +1,47 @@
+### model
+model_name_or_path: /path/to/Qwen2.5-Math-1.5B-rope_scaling-no_sys
+
+### method
+stage: sft
+do_train: true
+finetuning_type: full
+deepspeed: examples/deepspeed/ds_z2_config.json
+
+### dataset
+dataset: AceReason-1.1-Math.uuid.gt.verify.true.shuf.r1_response_Qwen2.5-Math-1.5B.sample_gauss_mean2.5_std0.25_len.5w.1query1response.alpaca
+cutoff_len: 32768
+# overwrite_cache: true
+preprocessing_num_workers: 32
+template: qwen_no_sys
+# packing: true
+drop_exceed_length_data: true
+
+### output
+output_dir: /same/to/output/dir/$MODEL_NAME
+logging_steps: 1
+save_strategy: epoch
+plot_loss: true
+overwrite_output_dir: true
+save_only_model: true
+disable_tqdm: true
+
+### train 32 cards * 4 = 128 Global Batch
+ul_global: 0
+ul_weight: 0.0
+per_device_train_batch_size: 1
+gradient_accumulation_steps: 4
+learning_rate: 2.5e-4
+num_train_epochs: 6.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.03
+weight_decay: 0.1
+adam_beta1: 0.9
+adam_beta2: 0.95
+bf16: true
+ddp_timeout: 180000000
+flash_attn: fa2
+enable_liger_kernel: true
+use_unsloth_gc: true
+
+### eval
+eval_strategy: "no" # since this pr doesn't support eval

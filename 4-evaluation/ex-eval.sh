@@ -1,0 +1,35 @@
+pip install -e 4-evaluation/deepscaler
+
+cd ./4-evaluation
+
+MODEL=$1
+
+DATA=aime
+OUTPUT_DIR=$MODEL/$DATA
+bash eval.sh $MODEL $OUTPUT_DIR $DATA 128 150
+wait
+
+DATA=aime25
+OUTPUT_DIR=$MODEL/$DATA
+bash eval.sh $MODEL $OUTPUT_DIR $DATA 128 150
+wait
+
+DATA=HMMT25
+OUTPUT_DIR=$MODEL/$DATA
+bash eval.sh $MODEL $OUTPUT_DIR $DATA 128 150
+wait
+
+DATA=CMIMC25
+OUTPUT_DIR=$MODEL/$DATA
+bash eval.sh $MODEL $OUTPUT_DIR $DATA 128 150
+wait
+
+DATA=BRUMO25
+OUTPUT_DIR=$MODEL/$DATA
+bash eval.sh $MODEL $OUTPUT_DIR $DATA 128 150
+wait
+
+DATA=minerva
+OUTPUT_DIR=$MODEL/$DATA
+bash eval.sh $MODEL $OUTPUT_DIR $DATA 64 150
+wait
